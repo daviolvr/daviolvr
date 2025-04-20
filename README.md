@@ -21,5 +21,6 @@ Go (Golang), data structures, and computer networking.
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=daviolvr&theme=radical&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviolvr&show_icons=true&theme=radical&cache_seconds=1800)
+
 
