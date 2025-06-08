@@ -4,7 +4,8 @@
 
 💼 Currently working on projects involving public APIs, performance analysis, and security.
 
-🚀 Featured project:  
+🚀 Featured project:
+[E-Commecer API](https://github.com/daviolvr/E-Commerce-API) - An E-Commerce API with many features
 [api-benchmark](https://github.com/daviolvr/api-benchmark) – A platform to test, compare, and visualize the performance of public APIs. Built for developers who care about speed and reliability.
 
 🛠️ Tech stack I use the most:
