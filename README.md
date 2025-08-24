@@ -24,4 +24,4 @@
 - [LinkedIn](https://www.linkedin.com/in/davi-de-oliveira-alves-5b4a56324/)  
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviolvr&show_icons=true&theme=radical&cache_seconds=1800&random=123&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviolvr&show_icons=true&theme=radical&cache_seconds=1800&random=123)
