@@ -14,7 +14,7 @@
 
 ## 🚀 Featured Projects
 - [**E-Commerce API**](https://github.com/daviolvr/E-Commerce-API) – Complete API for e-commerce platforms with authentication, cart, and order management.  
-- [**API Benchmark**](https://github.com/daviolvr/api-benchmark) – Tool to test, compare, and visualize API performance and reliability.  
+- [**API Benchmark**](https://github.com/daviolvr/Fintrack) – Tool to test, compare, and visualize API performance and reliability.  
 
 ## 📚 Currently Learning
 - Advanced **Golang**  
