@@ -14,11 +14,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects 
-- [**Fintrack**](https://github.com/daviolvr/Fintrack)  
-
-## 📚 Currently Learning
-- Advanced **Golang**  
-- **Computer Networking** & **Data Structures**  
+- [**Fintrack**](https://github.com/daviolvr/Fintrack)   
 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/davi-de-oliveira-alves-5b4a56324/)  
