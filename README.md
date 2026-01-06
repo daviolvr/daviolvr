@@ -13,8 +13,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🚀 Featured Projects
-- [**E-Commerce API**](https://github.com/daviolvr/E-Commerce-API) – Complete API for e-commerce platforms with authentication, cart, and order management.  
+## 🚀 Featured Projects 
 - [**Fintrack**](https://github.com/daviolvr/Fintrack)  
 
 ## 📚 Currently Learning
@@ -23,6 +22,3 @@
 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/davi-de-oliveira-alves-5b4a56324/)  
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviolvr&show_icons=true&theme=radical&cache_seconds=1800&random=123)
