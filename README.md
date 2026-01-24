@@ -11,10 +11,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🚀 Featured Projects 
-- [**Fintrack**](https://github.com/daviolvr/Fintrack)   
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 
 ## 📫 Contact me
 - [LinkedIn](https://www.linkedin.com/in/davi-de-oliveira-alves-5b4a56324/)  
