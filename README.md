@@ -3,6 +3,11 @@
 💻 **Back-end Developer** dedicated to building scalable, efficient, and secure solutions.  
 
 ### 🛠️ Tech Stack
+* **Languages:** Python, Go
+* **Frameworks:** Django, FastAPI
+* **Databases:** PostgreSQL, MySQL, MongoDB, Redis
+* **Tools:** Docker, Git, Linux
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
