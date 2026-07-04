@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Davi
 
-💻 **Back-end Developer** dedicated to building scalable, efficient, and secure solutions.  
+💻 **Software Developer** focused on backend, dedicated to building scalable, efficient, and secure solutions.  
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, Go
