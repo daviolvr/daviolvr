@@ -3,8 +3,8 @@
 💻 **Software Developer** focused on backend, dedicated to building scalable, efficient, and secure solutions.  
 
 ### 🛠️ Tech Stack
-* **Languages:** Python, Go
-* **Frameworks:** Django, FastAPI
+* **Languages:** Java, Python, Go
+* **Frameworks:** Spring Boot, FastAPI, Django
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Tools:** Docker, Git, Linux
 
