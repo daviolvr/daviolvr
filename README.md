@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Davi
 
-💻 **Software Developer** focused on backend, dedicated to building scalable, efficient, and secure solutions.  
+💻 Software Developer focused on backend development, building scalable, efficient, and reliable software solutions. 
 
 ### 🛠️ Tech Stack
 * **Languages:** Java, Python, Go
@@ -8,7 +8,9 @@
 * **Databases:** PostgreSQL, MySQL, MongoDB, Redis
 * **Tools:** Docker, Git, Linux
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
